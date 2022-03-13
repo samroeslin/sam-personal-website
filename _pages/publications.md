@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: An up-to-date list is available on Google Scholar <a href='https://scholar.google.co.nz/citations?user=OVBqXFEAAAAJ&hl=en'>Affiliations</a>.
+description: An up-to-date list is available on <a href='https://scholar.google.co.nz/citations?user=OVBqXFEAAAAJ&hl=en'>Google Scholar</a>.
 years: [2021, 2020, 2019, 2018]
 nav: true
 ---
