@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: 2017 Puebla earthquake
+description: Reconnaissance mission in Mexico City following the 19 Sep 2017 earthquake
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: seismic
 ---
 
 Every project has a beautiful feature showcase page.

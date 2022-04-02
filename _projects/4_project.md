@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: TakiWaehere – New Zealand Geospatial Hackathon
+description: Hackathon 17-18 April 2021
 img:
-importance: 3
-category: fun
+importance: 1
+category: flood
 ---
 
 Every project has a beautiful feature showcase page.

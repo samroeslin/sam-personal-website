@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: TakiWaehere – New Zealand Geospatial Hackathon
+description: Hackathon 17-18 April 2021
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+redirect: https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealand-r-d/innovative-partnerships/takiwaehere-the-geospatial-hackathon/
+importance: 1
+category: flood
 ---
 
 Every project has a beautiful feature showcase page.
