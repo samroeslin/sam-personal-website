@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, I'm Sam Roeslin 👋
 
-I am currently working as a **Data Analyst** at @<a href='https://www.tower.co.nz/'>Tower Insurance</a>, in Auckland, New Zealand.
+I am currently working as a **Data Analyst** at <a href='https://www.tower.co.nz/'>Tower Insurance</a>, in Auckland, New Zealand.
 
 My research interests are in the application of data science and novel technologies for the natural disaster risk analysis, damage and loss modeling, and improvement of disaster resilience.
 
