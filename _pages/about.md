@@ -20,6 +20,8 @@ Hello, I'm Sam Roeslin 👋
 
 I am currently working as a **Data Analyst** at @<a href='https://www.tower.co.nz/'>Tower Insurance</a>, in Auckland, New Zealand.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are in the application of data science and novel technologies for the natural disaster risk analysis, damage and loss modeling, and improvement of disaster resilience.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my PhD in civil engineering from the <a href='https://www.auckland.ac.nz/en/engineering/about-the-faculty/civil-and-environmental-engineering.html'>University of Auckland</a>, New Zealand, master (M. Eng.) from the <a href='https://www.oth-regensburg.de/en/faculties/civil-engineering.html'>Regensburg University of Applied Sciences </a>, Germany, and bachelors (B. Eng., B. Sc., Licence Professionnelle), from the <a href='https://www.h-ka.de/en/study/study-in-german/bachelor/civil-engineering-tri-national/profile'>Karlsruhe University of Applied Sciences</a>, Germany, <a href='https://www.fhnw.ch/de/studium/architektur-bau-geomatik/bachelor-studiengang-bauingenieurwesen-trinational'>University of Applied Sciences Northwestern Switzerland</a>, Switzerland, and <a href='https://iutrs.unistra.fr/international/formations-internationales/formation-trinationale-en-genie-civil'>Robert Schuman University Institute of Technology</a>, France.
+
+When not behind my computer, you can find me on a mountain bike 🚴 or hiking enjoying the outdoors ⛰️
