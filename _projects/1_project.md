@@ -2,8 +2,8 @@
 layout: page
 title: 2017 Puebla earthquake
 description: Reconnaissance mission in Mexico City following the 19 Sep 2017 earthquake
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/CDMX.jpeg
+importance: 2
 category: seismic
 ---
 

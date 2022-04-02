@@ -2,7 +2,7 @@
 layout: page
 title: TakiWaehere – New Zealand Geospatial Hackathon
 description: Hackathon 17-18 April 2021
-img:
+img: assets/img/TakiWaehere_Hackathon-2021-04-17.jpeg
 importance: 1
 category: flood
 ---
