@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Interesting projects.
+description: Some of the main projects I have been working on.
 nav: true
 display_categories: [seismic, flood]
 horizontal: false

@@ -2,7 +2,7 @@
 layout: page
 title: Seismic loss prediction for residential buildings in Christchurch
 description: Use of data science and machine learning and insurance data collected following the 2010-2011 Canterbury Earthquake Sequence (CES)
-img: assets/img/CDMX.jpeg
+img: assets/img/Curated_data_logo_ArcGIS.png
 importance: 1
 category: seismic
 ---
