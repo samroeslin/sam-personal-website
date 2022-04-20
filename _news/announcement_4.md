@@ -3,7 +3,7 @@ layout: post
 title: 1st place at TakiWaehere - The New Zealand Geospatial Hackathon - Team the AUNTS
 date: 2021-05-20 10:00:00-0400
 inline: false
-categories: TakiWaehere_Hackathon
+categories: TakiWaehere-Hackathon
 ---
 
 Thanks you! We had lot of fun participating in the hackathon.

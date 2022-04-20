@@ -4,7 +4,7 @@ title:  We participated in the TakiWaehere – New Zealand Geospatial Hackathon!
 date: 2021-04-18 16:00:00
 description: 24 hours hackathon over the weekend of 17-18 April, 2021
 tags: TakiWaehere NZGeospatialHackathon
-categories: TakiWaehere_Hackathon
+categories: TakiWaehere-Hackathon
 ---
 With 3 friends, we took part in the <a href='https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealand-r-d/innovative-partnerships/takiwaehere-the-geospatial-hackathon/'>TakiWaehere - New Zealand Geospatial Hackathon</a> over the weekend of 17-18 April 2021.
 
