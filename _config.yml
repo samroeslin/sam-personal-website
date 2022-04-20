@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Samuel
 middle_name:
 last_name: Roeslin
-email: sroeslin@hotmail.com
+email: s.roeslin@auckland.ac.nz
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A website incorporating all the info and news related to Sam's work.
 footer_text: >
@@ -58,12 +58,12 @@ github_username: samroeslin # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: samroeslin # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: OVBqXFEAAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-8793-8322 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Samuel_Roeslin # your profile on ResearchGate
+research_gate_profile: Samuel Roeslin # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
