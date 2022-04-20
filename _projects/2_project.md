@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Seismic damage prediction for residential buildings in Mexico
+title: Seismic damage prediction for residential buildings in Mexico City
 description: Applied data science and machine learning to building damage data collected following the 2017 Puebla earthquake
-img: 
-importance: 1
+img: assets/img/Mexico_paper-Fig6.jpg
+importance: 2
 category: seismic
 ---
 
