@@ -8,7 +8,7 @@ categories: TakiWaehere-Hackathon
 
 Thanks you! We had lot of fun participating in the hackathon.
 
-# Tweet
+# First place
 Tweet from the Ministry of Business, Innovation and Employment (MBIE) - New Zealand :
 {% twitter https://twitter.com/MBIEsci/status/1385386220897722373 %}
 
