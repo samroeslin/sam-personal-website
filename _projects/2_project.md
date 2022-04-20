@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Seismic loss prediction for residential buildings in Christchurch
-description: Use of data science and machine learning and insurance data collected following the 2010-2011 Canterbury Earthquake Sequence (CES)
-img: assets/img/Curated_data_logo_ArcGIS.png
+title: Seismic damage prediction for residential buildings in Mexico
+description: Applied data science and machine learning to building damage data collected following the 2017 Puebla earthquake
+img: 
 importance: 1
 category: seismic
 ---

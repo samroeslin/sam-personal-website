@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2017 Puebla earthquake
-description: Reconnaissance mission in Mexico City following the 19 Sep 2017 earthquake
-img: assets/img/CDMX.jpeg
-importance: 3
+title: Seismic loss prediction for residential buildings in Christchurch
+description: Applied data science and machine learning to insurance claims data related the 2010-2011 Canterbury Earthquake Sequence (CES)
+img: assets/img/Curated_data_logo_ArcGIS.png
+importance: 1
 category: seismic
 ---
 
