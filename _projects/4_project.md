@@ -7,31 +7,17 @@ importance: 3
 category: flood
 ---
 
-With 3 friends, we took part in the <a href='https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealand-r-d/innovative-partnerships/takiwaehere-the-geospatial-hackathon/'>TakiWaehere - New Zealand Geospatial Hackathon</a> over the weekend of 17-18 April 2021.
+With three friends, we took part in the <a href='https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealand-r-d/innovative-partnerships/takiwaehere-the-geospatial-hackathon/'>TakiWaehere - New Zealand Geospatial Hackathon</a> over the weekend of 17-18 April 2021.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+We chose the topic “managing emergencies”. We were provided with four high-resolution satellite images from Maxar. One image was taken before the event, two just after, and the latest three years later. We applied the Augmented Normalized Difference Water Index (ANDWI) to detect locations where flooding had occurred. We overlaid the flooded extent on top of the built environment data (buildings, roads, power lines). Using a GIS software, we were then able to tell which buildings and roads were critically affected by the flood. We presented the final output in an interactive map <a href=http://bit.ly/MapAffectedInfrastructureEdgecumbeFlood2017>Web App (map)</a>.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+This map can be used by emergency response teams to locate people that are potentially trapped or to find damaged power poles that could cause a power outage. The affected community can use the hazard map to find the roads that are still accessible.
+The application is simple and can be used for any region in New Zealand. With the addition of Worldview Legion and other satellites, this data could be updated each hour or faster.
 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Edgecumbe_main_picture_with_text.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -41,21 +27,4 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Make sure to check the <a href=http://bit.ly/StoryMapsEdgecumbeFlood2017>StoryMaps</a>.
