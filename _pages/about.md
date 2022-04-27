@@ -10,6 +10,7 @@ profile:
   address: >
     <p>Auckland, New Zealand</p>
     <p>s.roeslin@auckland.ac.nz</p>
+    <p>sroe459@aucklanduni.ac.nz</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
