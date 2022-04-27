@@ -14,6 +14,8 @@ We chose the topic “managing emergencies”. We were provided with four high-r
 This map can be used by emergency response teams to locate people that are potentially trapped or to find damaged power poles that could cause a power outage. The affected community can use the hazard map to find the roads that are still accessible.
 The application is simple and can be used for any region in New Zealand. With the addition of Worldview Legion and other satellites, this data could be updated each hour or faster.
 
+For the full details check our <a href='http://bit.ly/StoryMapsEdgecumbeFlood2017'>StoryMaps</a>.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Edgecumbe_Webmap.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -22,5 +24,3 @@ The application is simple and can be used for any region in New Zealand. With th
 <div class="caption">
     Screenshot of the interactive webmap
 </div>
-
-Make sure to check the <a href='http://bit.ly/StoryMapsEdgecumbeFlood2017'>StoryMaps</a>.
