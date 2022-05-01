@@ -13,33 +13,32 @@ I had the chance to be part of the New Zealand team that was sent for a week to 
 
 This damage information of residential building was used for the development of a seismic damage prediction model using machine learning (ML). The building damage data was enriched with information about the seismic intensity. Once merged, the data was preprocessed to be able to be used by machine learning. Four algorithms were trialled: logistic regression, support vector machine (SVM), decision tree, and random forest. Random forest was retained for its prediction performance and for the insights that could be derived from the analysis of the feature importance.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Mexico_paper-Fig6.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Mexico_paper-Fig11.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    (a) Map of the assessed buildings in the Roma and Condesa neighborhoods, (b) Process to obtain the seismic demand for each building
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Mexico_paper-Fig6.jpg" title="Buildings assessed by the UAM team in the Roma and Condesa neighborhoods." class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Mexico_paper-Fig11.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Mexico_paper-Fig9.jpg" title="Buildings assessed by the UAM team in the Roma and Condesa neighborhoods." class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Mexico_paper-Fig18.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    (a) Development of the machine learning model, (b) SHAP Feature importance of the random forest model
 </div>
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Mexico_paper-Fig6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Mexico_paper-Fig11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+
 
 
 **Related publications**
