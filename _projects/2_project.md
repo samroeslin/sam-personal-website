@@ -42,4 +42,5 @@ This damage information of residential building was used for the development of 
 
 
 **Related publications**
-Roeslin, S., Ma, Q., Juárez-Garcia, H., Gómez-Bernal, A., Wicker, J., & Wotherspoon, L. (2020). A machine learning damage prediction model for the 2017 Puebla-Morelos, Mexico, earthquake. Earthquake Spectra, 36(2_suppl). https://doi.org/10.1177/8755293020936714
+Roeslin, S., Ma, Q., Juárez-Garcia, H., Gómez-Bernal, A., Wicker, J., & Wotherspoon, L. (2020). A machine learning damage prediction model for the 2017 Puebla-Morelos, Mexico, earthquake. Earthquake Spectra, 36(2_suppl).
+<a href='https://doi.org/10.1177/8755293020936714'>https://doi.org/10.1177/8755293020936714</a>
