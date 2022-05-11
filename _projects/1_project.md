@@ -50,3 +50,5 @@ At the end of October 2017, a reconnaissance team from New Zealand spent about a
 **Related publications**
 Roeslin, S., Juárez-Garcia, H., Elwood, K., Dhakal, R., & Gómez-Bernal, A. (2020). The September 19th, 2017 Puebla, Mexico earthquake: Final report of the New Zealand reconnaissance team. Bulletin of the New Zealand Society for Earthquake Engineering, 53(3), 150–172.
 <a href='https://doi.org/10.5459/bnzsee.53.3.150-172'>https://doi.org/10.5459/bnzsee.53.3.150-172</a>
+
+Roeslin, S., Ma, Q. T. M., & García, H. J. (2018). Damage assessment on buildings following the 19th september 2017 puebla, Mexico earthquake. Frontiers in Built Environment, 4. <a href='https://doi.org/10.3389/fbuil.2018.00072'>https://doi.org/10.3389/fbuil.2018.00072</a>

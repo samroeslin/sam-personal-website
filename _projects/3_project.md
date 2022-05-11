@@ -7,74 +7,20 @@ importance: 1
 category: seismic
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In 2010-2011, New Zealand experienced the most damaging earthquakes in its history, known as the Canterbury earthquake sequence (CES). It led to extensive damage to Christchurch buildings, infrastructure and its surroundings; affecting commercial and residential buildings. The direct economic losses represented 20% of New Zealand’s GDP in 2011. Owing to New Zealand’s particular insurance structure, the insurance sector contributed to over 80% of losses for a total of more than NZ$31 billion. Over NZ$11 billion of the losses arose from residential building claims and were covered either partially or entirely from the NZ government backed Earthquake Commission (EQC) EQcover insurance scheme.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In the process of resolving the claims, EQC collected detailed financial loss data, post-event observations, and building characteristics for each of the approximately 434,000 claims lodged following the CES. This coincided with the effort by the very active NZ earthquake engineering community, which exploited the event and collected extensive data on the ground shaking levels, soil conditions, and liquefaction occurrence throughout wider Christchurch, as a large scale outdoor experiment.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Roeslin-2019-04-Poster_PCEE_2019.tiff" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Roeslin-2020-12-Poster_QCAM_2020.tiff" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+**Related publications**
+Roeslin, S., Ma, Q., Wicker, J., & Wotherspoon, L. (2020). Data Integration for the Development of a Seismic Loss Prediction Model for Residential Buildings in New Zealand. In Communications in Computer and Information Science: Vol. 1168 CCIS. <a href='https://doi.org/10.1007/978-3-030-43887-6_8'>https://doi.org/10.1007/978-3-030-43887-6_8</a>
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Roeslin, S., Ma, Q., Chigullapally, P., Wicker, J., & Wotherspoon, L. (2020). Feature Engineering for a Seismic Loss Prediction Model Using Machine Learning, Christchurch Experience. Proceeding of the 17th World Conference on Earthquake Engineering, 17WCEE.
