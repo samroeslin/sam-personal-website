@@ -25,7 +25,7 @@ At the end of October 2017, a reconnaissance team from New Zealand spent about a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2017-10-Mexico_City4.JPG title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/2017-10-Mexico_City4.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,10 +34,10 @@ At the end of October 2017, a reconnaissance team from New Zealand spent about a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2017-10-Mexico_City3.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/2017-10-Mexico_City1.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2017-10-Mexico_City1.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/2017-10-Mexico_City3.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/2017-10-Mexico_City7.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -47,7 +47,9 @@ At the end of October 2017, a reconnaissance team from New Zealand spent about a
     Column damage and column repairs.
 </div>
 
+
 **Related publications**
+
 Roeslin, S., Juárez-Garcia, H., Elwood, K., Dhakal, R., & Gómez-Bernal, A. (2020). The September 19th, 2017 Puebla, Mexico earthquake: Final report of the New Zealand reconnaissance team. Bulletin of the New Zealand Society for Earthquake Engineering, 53(3), 150–172.
 <a href='https://doi.org/10.5459/bnzsee.53.3.150-172'>https://doi.org/10.5459/bnzsee.53.3.150-172</a>
 

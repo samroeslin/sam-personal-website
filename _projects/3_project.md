@@ -13,14 +13,16 @@ In the process of resolving the claims, EQC collected detailed financial loss da
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Roeslin-2019-04-Poster_PCEE_2019.tiff" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Roeslin-2020-12-Poster_QCAM_2020.tiff" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
+
 **Related publications**
+
 Roeslin, S., Ma, Q., Wicker, J., & Wotherspoon, L. (2020). Data Integration for the Development of a Seismic Loss Prediction Model for Residential Buildings in New Zealand. In Communications in Computer and Information Science: Vol. 1168 CCIS. <a href='https://doi.org/10.1007/978-3-030-43887-6_8'>https://doi.org/10.1007/978-3-030-43887-6_8</a>
 
 Roeslin, S., Ma, Q., Chigullapally, P., Wicker, J., & Wotherspoon, L. (2020). Feature Engineering for a Seismic Loss Prediction Model Using Machine Learning, Christchurch Experience. Proceeding of the 17th World Conference on Earthquake Engineering, 17WCEE.
