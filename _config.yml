@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Samuel
 middle_name:
 last_name: Roeslin
-email:
+email: s.roeslin@auckland.ac.nz
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A website incorporating all the info and news related to Sam's work.
 footer_text: >
@@ -54,7 +54,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: Samuel Roeslin # your GitHub user name
+github_username: samroeslin # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: Samuel Roeslin # your LinkedIn user name
