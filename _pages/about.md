@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Auckland, New Zealand</p>
-    <p>sroe459@aucklanduni.ac.nz</p>
+    <p>sroeslin@hotmail.com</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
