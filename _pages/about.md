@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Auckland, New Zealand</p>
+    <p>Ispra, Italy</p>
     <p>sroeslin@hotmail.com</p>
 
 news: true  # includes a list of news items
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, I'm Sam Roeslin 👋
 
-I am currently working as an **analytics specialist** at <a href='https://www.tower.co.nz/'>Tower Insurance</a>, in Auckland, New Zealand.
+I am back in Europe and will soon start a trainee at the Joint Research Centre (JRC) of the European Commission in Ispra, Italy.
 
 My research interests are in the application of data science and novel technologies for natural disaster risk analysis, mitigation and management.
 <!-- , damage and loss modelling, and improvement of disaster resilience. -->
