@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, I'm Sam Roeslin 👋
 
-I am back in Europe and will soon start a trainee at the Joint Research Centre (JRC) of the European Commission in Ispra, Italy.
+I am currently doing a trainee at the Joint Research Centre (JRC) of the European Commission in Ispra, Italy.
 
 My research interests are in the application of data science and novel technologies for natural disaster risk analysis, mitigation and management.
 <!-- , damage and loss modelling, and improvement of disaster resilience. -->
