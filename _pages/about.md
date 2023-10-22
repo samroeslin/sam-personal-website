@@ -10,6 +10,7 @@ profile:
   address: >
     <p>Ispra, Italy</p>
     <p>sroeslin@hotmail.com</p>
+    <p>samuel.roeslin@ec.europa.eu</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
